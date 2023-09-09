@@ -12,22 +12,6 @@ I have expertise in a variety of areas, including:
 - 🎮 Game Development
 ## 🚀 Projects
 
-Check out some of my projects:
-
-1.  **Food Court App**
-   - Description: A restaurant food ordering app.
-   - [Repository](https://github.com/KilonzoJames/Food-ordering-App)
-
-2. **Task Manager App**
-   - Description: Organize and complete tasks efficiently.
-   - [Repository](https://github.com/KilonzoJames/my_cli_project)
-
-3. **The Hunt**
-   - Description: A simple snake game clone.
-   - [Repository](https://github.com/YourUsername/YourProject)
-
-Feel free to explore these projects and provide feedback or contributions!
-
 ## 🌟 Skills
 
 I'm experienced with various technologies:
