@@ -1,7 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/25/7c/a5/257ca595dd14fb0f43ee592134af200f.gif)](https://i.pinimg.com/originals/25/7c/a5/257ca595dd14fb0f43ee592134af200f.gif)
-
-<h1 align="center">Welcome, to my GitHub Profile! 👋</h1>
-<h3 align="center">I'm James, a passionate software developer excited to collaborate on exciting projects.</h3>
+<h1>Welcome, to my GitHub Profile! 👋</h1>
+<h3>I'm James, a passionate software developer excited to collaborate on exciting projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kilonzojames&label=Profile%20views&color=0e75b6&style=flat" alt="kilonzojames" /> </p>
@@ -27,6 +25,5 @@
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=kilonzojames&bg_color=0a0a0a&color=05e173&line=1ddd70&point=0de761&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#⚡ Fun fact:
- **I run.**
--->
+⚡ Fun fact:
+ **I run.** 🏃‍♂️➡️
