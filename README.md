@@ -138,35 +138,29 @@
   </div>
   
 ### Socials:
-<div style="width: 100%; display: inline-block;">
-    <div style="width: 25%; float: left; box-sizing: border-box; padding: 10px; border: 1px solid #ccc;">
-        <a href="https://www.github.com/kilonzojames" target="_blank" rel="noreferrer" style="margin-right: 20px;">
-            <picture>
-              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-            </picture>
-          </a>
-            </div>
-    <div style="width: 25%; float: left; box-sizing: border-box; padding: 10px; border: 1px solid #ccc;">
-        <a href="https://www.x.com/ki_lonzo" target="_blank" rel="noreferrer" style="margin-right: 20px;">
-            <picture>
-              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-            </picture>
-          </a>    </div>
-    <div style="width: 25%; float: left; box-sizing: border-box; padding: 10px; border: 1px solid #ccc;">
-        <a href="https://www.linkedin.com/in/james-kilonzo-392249104" target="_blank" rel="noreferrer" style="margin-right: 20px;">
-            <picture>
-              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-            </picture>
-          </a>    </div>
-    <div style="width: 25%; float: left; box-sizing: border-box; padding: 10px; border: 1px solid #ccc;">
-        <p>📧 <a href="mailto:jay.kilonzo@gmail.com"></a></p>
-    </div>
+ <div class="social-icons" style="margin: 30px;">
+    <a href="https://www.github.com/kilonzojames" target="_blank" rel="noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" alt="GitHub" />
+      </picture>
+    </a>
+    <a href="https://www.x.com/ki_lonzo" target="_blank" rel="noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="48" height="48" alt="Twitter" />
+      </picture>
+    </a>
+    <a href="https://www.linkedin.com/in/james-kilonzo-392249104" target="_blank" rel="noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48" height="48" alt="LinkedIn" />
+      </picture>
+    </a>
+    <p>📧 <a href="mailto:jay.kilonzo@gmail.com">jay.kilonzo@gmail.com</a></p>
   </div>
 
 
