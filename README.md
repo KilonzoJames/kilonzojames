@@ -7,7 +7,7 @@
 <div style="display: flex; flex-wrap: wrap;">
     <!-- Div -->
     <div style="flex: 1; padding: 10px;">
-        <img align="right" alt="Coding" height="450" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
+        <img alt="Coding" height="450" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
     </div>
     <!-- Table -->
     <div style="flex: 1; padding: 10px;">
@@ -177,13 +177,18 @@
     </td>
   </tr>
   <tr>
-    <td width="33.33%">
+    <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kilonzojames&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kilonzojames" />
     </td>
-    <td width="33.33%">
+    <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=kilonzojames&show_icons=true&locale=en&theme=tokyonight" alt="kilonzojames" />
     </td>
-    <td width="33.33%">
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-contributor-stats.vercel.app/api?username=kilonzojames&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+    </td>
+    <td width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=kilonzojames&theme=tokyonight&hide_border=false">
     </td>
   </tr>
@@ -192,11 +197,6 @@
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=kilonzojames&bg_color=0a0a0a&color=05e173&line=1ddd70&point=0de761&area=true&hide_border=true" alt="GitHub Activity Graph">
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <img src="https://github-contributor-stats.vercel.app/api?username=kilonzojames&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
     </td>
   </tr>
 </table>
