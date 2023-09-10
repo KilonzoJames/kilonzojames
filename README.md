@@ -4,13 +4,13 @@
     <span style="text-align: center;">Visitor count</span><br>
     <img src="https://profile-counter.glitch.me/kilonzojames/count.svg" />
 </p>
-<div style="display: flex;">
+<div style="display: flex; flex-wrap: wrap;">
     <!-- Div -->
-    <div style="flex: 1; text-align: right;">
+    <div style="flex: 1; padding: 10px;">
         <img align="right" alt="Coding" height="450" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
     </div>
     <!-- Table -->
-    <div style="flex: 1;">
+    <div style="flex: 1; padding: 10px;">
         <table>
             <tr>
               <th colspan="5">Languages and Tools:</th>
