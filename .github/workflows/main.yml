@@ -20,8 +20,6 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-
-
     # Generates the snake  
       - uses: Platane/snk/svg-only@v3
         id: snake-gif
@@ -29,8 +27,6 @@ jobs:
           github_user_name: kilonzojames
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
-         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
