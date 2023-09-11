@@ -1,9 +1,15 @@
-<h1 >Welcome, to my GitHub Profile! 👋</h1>
-<h3>I'm James, a passionate software developer excited to collaborate on software development projects.</h3>
+<h1 style="color: #007BFF; text-align: center; margin-top: 20px;">Welcome to my world of coding adventures<span style="color: #F472B6;">!</span> 👨‍💻</h1>
+<h3 style="color: #007BFF; font-size: 24px; font-weight: bold; text-align: center; margin-top: 20px;">
+    🌟Hey there, I'm <span style="color: #32CD32;">James</span><span style="color: #90EE90;">,</span> an enthusiastic software architect<span style="color: #FF4500;">,</span> and problem solver<span style="color: #32CD32;">.</span><br>
+    Let's build incredible digital experiences together<span style="color: #90EE90;">!</span>
+</h3>
+
+
 <p align="center"> 
     <span style="text-align: center;">Visitor count</span><br>
     <img src="https://profile-counter.glitch.me/kilonzojames/count.svg" />
 </p>
+
 <div style="display: flex; flex-wrap: wrap;">
     <!-- Div -->
     <div style="flex: 1; padding: 10px;">
@@ -13,7 +19,7 @@
     <div style="flex: 1; padding: 10px;">
         <table>
             <tr>
-              <th colspan="5">Languages and Tools:</th>
+              <th colspan="5" style="color: #FF4500; font-family: 'Your Font', sans-serif; text-transform: uppercase; font-size: 24px;">🚀 Discover My Tech Stack & Linguistic Arsenal 🛠️</th>
             </tr>
             <tr>
               <td>
@@ -146,16 +152,16 @@
     </div>
     <div style="margin: 20px; width: 72px; height: 72px;">
         <a href="https://www.x.com/ki_lonzo" target="_blank" rel="noreferrer">
-            <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png" alt="Twitter Logo" width="72" height="72">
+            <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-outline-512.png" alt="Twitter Logo" width="72" height="72">
         </a>
     </div>
     <div style="margin: 20px; width: 72px; height: 72px;">
         <a href="https://www.linkedin.com/in/james-kilonzo-392249104" target="_blank" rel="noreferrer">
-            <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="LinkedIn Logo" width="72" height="72">
+            <img src="https://cdn2.iconfinder.com/data/icons/social-media-grunge-1/28/social-media-line-drawn-grunge-linkedin-128.png" alt="LinkedIn Logo" width="72" height="72">
         </a>
     </div>
     <div style="margin: 20px; width: 72px; height: 72px;">
-        <a href="mailto:jay.kilonzo@gmail.com" target="_blank" rel="noreferrer">
+        <a href="mailto:jay.kilonzo@gmail.com?subject=Hello%20There&body=I%20hope%20you%20are%20doing%20well!" target="_blank" rel="noreferrer">
             <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email Icon" width="72" height="72">
         </a>
     </div>
