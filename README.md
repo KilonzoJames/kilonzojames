@@ -19,7 +19,7 @@
     <div style="flex: 1; padding: 10px;">
         <table>
             <tr>
-              <th colspan="5" style="color: #FF4500; font-family: 'Your Font', sans-serif; text-transform: uppercase; font-size: 24px;">🚀 Discover My Tech Stack & Linguistic Arsenal 🛠️</th>
+              <th colspan="5" style="color: #FF4500; font-family: 'Your Font', sans-serif; text-transform: uppercase; font-size: 24px;">🛠️ DISCOVER MY TECH STACK & LINGUISTIC ARSENAL 🚀</th>
             </tr>
             <tr>
               <td>
