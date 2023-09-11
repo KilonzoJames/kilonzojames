@@ -137,32 +137,29 @@
     </div>
   </div>
   
-### Socials:
- <div class="social-icons" style="margin: 30px;">
-    <a href="https://www.github.com/kilonzojames" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" alt="GitHub" />
-      </picture>
-    </a>
-    <a href="https://www.x.com/ki_lonzo" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="48" height="48" alt="Twitter" />
-      </picture>
-    </a>
-    <a href="https://www.linkedin.com/in/james-kilonzo-392249104" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48" height="48" alt="LinkedIn" />
-      </picture>
-    </a>
-    <p>📧 <a href="mailto:jay.kilonzo@gmail.com">jay.kilonzo@gmail.com</a></p>
-  </div>
-
+### 🌐 Socials:
+ <div class="social-icons" style="display: flex; justify-content: center;">
+    <div style="margin: 20px; width: 72px; height: 72px;">
+        <a href="https://www.github.com/kilonzojames" target="_blank" rel="noreferrer">
+            <img src="https://cdn3.iconfinder.com/data/icons/social-network-round-gloss-shine/512/GitHub_Social-Network-Communicate-Page-Curl-Effect-Circle-Glossy-Shadow-Shine.png" alt="GitHub Logo" width="72" height="72">
+        </a>
+    </div>
+    <div style="margin: 20px; width: 72px; height: 72px;">
+        <a href="https://www.x.com/ki_lonzo" target="_blank" rel="noreferrer">
+            <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png" alt="Twitter Logo" width="72" height="72">
+        </a>
+    </div>
+    <div style="margin: 20px; width: 72px; height: 72px;">
+        <a href="https://www.linkedin.com/in/james-kilonzo-392249104" target="_blank" rel="noreferrer">
+            <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="LinkedIn Logo" width="72" height="72">
+        </a>
+    </div>
+    <div style="margin: 20px; width: 72px; height: 72px;">
+        <a href="mailto:jay.kilonzo@gmail.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email Icon" width="72" height="72">
+        </a>
+    </div>
+</div>
 
 <table>
   <tr>
