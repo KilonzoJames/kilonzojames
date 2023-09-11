@@ -1,10 +1,5 @@
 <h1 style="color: #007BFF; text-align: center; margin-top: 20px;">Welcome to my world of coding adventures<span style="color: #F472B6;">!</span> 👨‍💻</h1>
-<h3 style="color: #007BFF; font-size: 24px; font-weight: bold; text-align: center; margin-top: 20px;">
-    🌟Hey there, I'm <span style="color: #32CD32;">James</span><span style="color: #90EE90;">,</span> an enthusiastic software architect<span style="color: #FF4500;">,</span> and problem solver<span style="color: #32CD32;">.</span><br>
-    Let's build incredible digital experiences together<span style="color: #90EE90;">!</span>
-</h3>
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=3000&pause=1000&color=F8F8F8&vCenter=true&multiline=true&width=1000&height=85&lines=%F0%9F%8C%9FHey+there%2C+I'm+James.+%F0%9F%96%90%EF%B8%8F;An+enthusiastic+software+architect%2C+and+problem+solver.;Let's+build+incredible+digital+experiences+together!" alt="Typing SVG" /></a>
 <p align="center"> 
     <span style="text-align: center;">Visitor count</span><br>
     <img src="https://profile-counter.glitch.me/kilonzojames/count.svg" />
@@ -169,8 +164,9 @@
 
 <table>
   <tr>
-    <td colspan="3" align="center">
-      <h2>GitHub Stats</h2>
+     <td colspan="3" align="center">
+      <h2>GITHUB <img src = "https://media1.giphy.com/media/YSxFo7abKQFCK8V4wB/200w.webp?cid=ecf05e47e0xw670xgv5jrdnja2xy7olue0gb571kdj0avdpp&ep=v1_gifs_search&rid=200w.webp&ct=g"
+      width="80"> STATS</h2>
     </td>
   </tr>
   <tr>
