@@ -1,5 +1,5 @@
 <h1 style="color: #007BFF; text-align: center; margin-top: 20px;">Welcome to my world of coding adventures<span style="color: #F472B6;">!</span> 👨‍💻</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=3000&pause=1000&color=F8F8F8&vCenter=true&multiline=true&width=1000&height=85&lines=%F0%9F%8C%9FHey+there%2C+I'm+James.+%F0%9F%96%90%EF%B8%8F;An+enthusiastic+software+architect%2C+and+problem+solver.;Let's+build+incredible+digital+experiences+together!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=3000&pause=1000&color=007BFF&size=25&vCenter=true&multiline=true&width=1000&height=120&lines=%F0%9F%8C%9FHey+there%2C+I'm+James.+%F0%9F%96%90%EF%B8%8F;An+enthusiastic+software+architect%2C+and+problem+solver.;Let's+build+incredible+digital+experiences+together!" alt="Typing SVG" /></a>
 <p align="center"> 
     <span style="text-align: center;">Visitor count</span><br>
     <img src="https://profile-counter.glitch.me/kilonzojames/count.svg" />
