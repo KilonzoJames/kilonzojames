@@ -1,6 +1,4 @@
-<a href="#">
-  <img src="https://capsule-render.vercel.app/api?text=Hello .. 👨‍💻&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</a>
+[![Hello ..](https://capsule-render.vercel.app/api?text=Hello%20..%20👨‍💻&animation=fadeIn&type=waving&color=gradient&height=100)](#)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=3000&pause=1000&color=007BFF&size=25&vCenter=true&multiline=true&width=1000&height=120&lines=%F0%9F%8C%9FHey+there%2C+I'm+James.+%F0%9F%96%90%EF%B8%8F;An+enthusiastic+software+architect%2C+and+problem+solver.;Let's+build+incredible+digital+experiences+together!" alt="Typing SVG" /></a>
 <p align="center"> 
