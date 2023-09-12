@@ -139,27 +139,19 @@
   </div>
   
 ### 🌐 Socials:
- <div class="social-icons" style="display: flex; justify-content: center;">
-    <div style="margin: 20px; width: 72px; height: 72px;">
-        <a href="https://www.github.com/kilonzojames" target="_blank" rel="noreferrer">
-            <img src="https://cdn3.iconfinder.com/data/icons/social-network-round-gloss-shine/512/GitHub_Social-Network-Communicate-Page-Curl-Effect-Circle-Glossy-Shadow-Shine.png" alt="GitHub Logo" width="72" height="72">
-        </a>
-    </div>
-    <div style="margin: 20px; width: 72px; height: 72px;">
-        <a href="https://www.x.com/ki_lonzo" target="_blank" rel="noreferrer">
-            <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-outline-512.png" alt="Twitter Logo" width="72" height="72">
-        </a>
-    </div>
-    <div style="margin: 20px; width: 72px; height: 72px;">
-        <a href="https://www.linkedin.com/in/james-kilonzo-392249104" target="_blank" rel="noreferrer">
-            <img src="https://cdn2.iconfinder.com/data/icons/social-media-grunge-1/28/social-media-line-drawn-grunge-linkedin-128.png" alt="LinkedIn Logo" width="72" height="72">
-        </a>
-    </div>
-    <div style="margin: 20px; width: 72px; height: 72px;">
-        <a href="mailto:jay.kilonzo@gmail.com?subject=Hello%20There&body=I%20hope%20you%20are%20doing%20well!" target="_blank" rel="noreferrer">
-            <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email Icon" width="72" height="72">
-        </a>
-    </div>
+<div class="social-icons" align="center">
+    <a href="https://www.github.com/kilonzojames" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
+        <img src="https://cdn3.iconfinder.com/data/icons/social-network-round-gloss-shine/512/GitHub_Social-Network-Communicate-Page-Curl-Effect-Circle-Glossy-Shadow-Shine.png" alt="GitHub Logo" width="72" height="72" style="max-width: 100%; max-height: 100%;">
+    </a>
+    <a href="https://www.x.com/ki_lonzo" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
+        <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-outline-512.png" alt="Twitter Logo" width="72" height="72" style="max-width: 100%; max-height: 100%;">
+    </a>
+    <a href="https://www.linkedin.com/in/james-kilonzo-392249104" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
+        <img src="https://cdn2.iconfinder.com/data/icons/social-media-grunge-1/28/social-media-line-drawn-grunge-linkedin-128.png" alt="LinkedIn Logo" width="72" height="72" style="max-width: 100%; max-height: 100%;">
+    </a>
+    <a href="mailto:jay.kilonzo@gmail.com?subject=Hello%20There&body=I%20hope%20you%20are%20doing%20well!" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
+        <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email Icon" width="72" height="72" style="max-width: 100%; max-height: 100%;">
+    </a>
 </div>
 
 <table>
