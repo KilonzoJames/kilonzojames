@@ -167,18 +167,18 @@
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kilonzojames&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kilonzojames" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kilonzojames&show_icons=true&locale=en&layout=compact&theme=dark" alt="kilonzojames" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=kilonzojames&show_icons=true&locale=en&theme=tokyonight" alt="kilonzojames" />
+      <img src="https://github-readme-stats.vercel.app/api?username=kilonzojames&show_icons=true&locale=en&theme=dark" alt="kilonzojames" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-contributor-stats.vercel.app/api?username=kilonzojames&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+      <img src="https://github-contributor-stats.vercel.app/api?username=kilonzojames&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
     </td>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kilonzojames&theme=tokyonight&hide_border=false">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kilonzojames&theme=dark&hide_border=false">
     </td>
   </tr>
   <tr>
