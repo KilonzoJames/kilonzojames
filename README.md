@@ -1,5 +1,5 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=100&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=header"/>
 </a>
 
 <h1 style="color: #007BFF; text-align: center; margin-top: 20px;">Welcome to my world of coding adventures<span style="color: #F472B6;">!</span> 👨‍💻</h1>
@@ -190,9 +190,15 @@
   </tr>
 </table>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kilonzojames/kilonzojames/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kilonzojames/kilonzojames/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kilonzojames/kilonzojames/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### Github Contribution Grid Snake
 ![github-contribution-grid-snake](https://github.com/kilonzojames/kilonzojames/blob/output/github-contribution-grid-snake.svg)
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=100&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=footer"/>
 </a>
