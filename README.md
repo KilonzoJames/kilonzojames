@@ -197,5 +197,5 @@
 ![github-contribution-grid-snake](https://github.com/kilonzojames/kilonzojames/blob/output/github-contribution-grid-snake.svg)
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?text=the_end&animation=fadeIn&type=waving&color=gradient&height=100&section=footer"/>
 </a>
