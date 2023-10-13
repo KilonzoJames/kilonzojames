@@ -157,8 +157,7 @@
 <table>
   <tr>
      <td colspan="3" align="center">
-      <h2>GITHUB <img src = "https://media1.giphy.com/media/YSxFo7abKQFCK8V4wB/200w.webp?cid=ecf05e47e0xw670xgv5jrdnja2xy7olue0gb571kdj0avdpp&ep=v1_gifs_search&rid=200w.webp&ct=g"
-      width="80"> STATS</h2>
+      <h1>GITHUB STATS</h1>
     </td>
   </tr>
   <tr>
