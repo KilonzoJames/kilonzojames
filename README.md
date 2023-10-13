@@ -144,7 +144,7 @@
         <img src="https://cdn3.iconfinder.com/data/icons/social-network-round-gloss-shine/512/GitHub_Social-Network-Communicate-Page-Curl-Effect-Circle-Glossy-Shadow-Shine.png" alt="GitHub Logo" width="72" height="72" style="max-width: 100%; max-height: 100%;">
     </a>
     <a href="https://www.x.com/ki_lonzo" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
-        <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-outline-512.png" alt="Twitter Logo" width="72" height="72" style="max-width: 100%; max-height: 100%;">
+        <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png" alt="Twitter Logo" width="72" height="72" style="max-width: 100%; max-height: 100%;">
     </a>
     <a href="https://www.linkedin.com/in/james-kilonzo-392249104" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
         <img src="https://cdn2.iconfinder.com/data/icons/social-media-grunge-1/28/social-media-line-drawn-grunge-linkedin-128.png" alt="LinkedIn Logo" width="72" height="72" style="max-width: 100%; max-height: 100%;">
