@@ -1,144 +1,38 @@
-[![Hello ..](https://capsule-render.vercel.app/api?text=Hello%20..%20👨‍💻&animation=fadeIn&type=waving&color=gradient&height=100)](#)
+                                                Triple Threat: JavaScript | Python | C
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=3000&pause=1000&color=007BFF&size=25&vCenter=true&multiline=true&width=1000&height=120&lines=%F0%9F%8C%9FHey+there%2C+I'm+James.+%F0%9F%96%90%EF%B8%8F;An+enthusiastic+software+architect%2C+and+problem+solver.;Let's+build+incredible+digital+experiences+together!" alt="Typing SVG" /></a>
-<p align="center"> 
-    <span style="text-align: center;">Visitor count</span><br>
-    <img src="https://profile-counter.glitch.me/kilonzojames/count.svg" />
+<p align="center">
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?%20..%20&animation=fadeIn&type=waving&color=gradient&height=120" alt="Hello" width="100%">
+  </a>
 </p>
 
-<div style="display: flex; flex-wrap: wrap;">
-    <!-- Div -->
-    <div style="flex: 1; padding: 10px;">
-        <img alt="Coding" height="450" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
-    </div>
-    <!-- Table -->
-    <div style="flex: 1; padding: 10px;">
-        <table>
-        <tr>
-            <th colspan="10" style="color: #FF4500; font-family: 'Your Font', sans-serif; text-transform: uppercase; font-size: 24px;">🛠️ DISCOVER MY TECH STACK & LINGUISTIC ARSENAL 🚀</th>
-        </tr>
-        <tr>
-            <td>
-                <p align="center">
-                    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
-                    </a>
-                </p>
-                <p align="center">React</p>
-            </td>
-            <td>
-                <p align="center">
-                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-                    </a>
-                </p>
-                <p align="center">JavaScript</p>
-            </td>
-            <td>
-                <p align="center">
-                    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-                    </a>
-                </p>
-                <p align="center">TypeScript</p>
-            </td>
-            <td>
-                <p align="center">
-                    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
-                    </a>
-                </p>
-                <p align="center">Tailwind CSS</p>
-            </td>
-            <td>
-                <p align="center">
-                    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
-                    </a>
-                </p>
-                <p align="center">Bootstrap</p>
-            </td>
-            <td>
-                <p align="center">
-                    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-                    </a>
-                </p>
-                <p align="center">HTML</p>
-            </td>
-            <td>
-                <p align="center">
-                    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-                    </a>
-                </p>
-                <p align="center">CSS</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p align="center">
-                    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/>
-                    </a>
-                </p>
-                <p align="center">Flask</p>
-            </td>
-            <td>
-                <p align="center">
-                    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-                    </a>
-                </p>
-                <p align="center">Python</p>
-            </td>
-            <td>
-                <p align="center">
-                    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="50" height="50"/>
-                    </a>
-                </p>
-                <p align="center">PostgreSQL</p>
-            </td>
-            <td>
-                <p align="center">
-                    <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/>
-                    </a>
-                </p>
-                <p align="center">SQLite 3</p>
-            </td>
-            <td>
-                <p align="center">
-                    <a href="https://developer.mozilla.org/en-US/docs/Web/SQL" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sql" width="50" height="50"/>
-                    </a>
-                </p>
-                <p align="center">SQL</p>
-            </td>
-            <td>
-                <p align="center">
-                    <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-                    </a>
-                </p>
-                <p align="center">Postman</p>
-            </td>
-            <td>
-                <p align="center">
-                    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-                    </a>
-                </p>
-                <p align="center">Git</p>
-            </td>
-            <!-- Add more technologies with similar structure -->
-        </tr>
-        </table>
-    </div>
-  </div>
-  
-### 🌐 Socials:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Shojumaru&size=60&duration=1000&pause=500&color=05A47D&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=150&lines=KilonzoJames+here!+👨‍💻" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&duration=3000&pause=500&color=05A47D&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=150&lines=An+enthusiastic+software+architect+and+problem+solver." alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow&size=40&duration=3000&pause=500&color=05A47D&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=200&lines=+Let's+build+incredible+digital+experiences+together!+%F0%9F%8C%90%EF%B8%8F" alt="Typing SVG" /></a>
+
+<!-- <h1>Hey there. I'm James . .</h1>
+<h3>An enthusiastic software architect and problem solver.</h3>
+<p>
+Let's build incredible digital experiences together! 🌐️
+</p> -->
+
+<div align="center">
+    <h1 colspan="10" style="color: #FF4500; font-family: 'Rubik Doodle Shadow', sans-serif; text-transform: uppercase; font-size: 24px;">🛠️ DISCOVER MY TECH STACK & LINGUISTIC ARSENAL 🚀</h1>
+</div>
+
+
+<p align="center">
+    <a href="https://skillicons.dev/icons?i=py,js,c,django,flask,ts,react,redux,css,tailwind,bootstrap,html,git,github,sqlite,postgres,visualstudio,linux,postman&perline=7">
+    <img src="https://skillicons.dev/icons?i=py,js,c,django,flask,ts,react,redux,css,tailwind,bootstrap,html,git,github,sqlite,postgres,visualstudio,linux,postman&perline=10" alt="My Skills">
+  </a>
+</p>
+
+<h1 align="center">
+    🌐 Socials:
+</h1>
+
 <div class="social-icons" align="center">
     <a href="https://www.github.com/kilonzojames" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
         <img src="https://cdn3.iconfinder.com/data/icons/social-network-round-gloss-shine/512/GitHub_Social-Network-Communicate-Page-Curl-Effect-Circle-Glossy-Shadow-Shine.png" alt="GitHub Logo" width="72" height="72" style="max-width: 100%; max-height: 100%;">
@@ -156,34 +50,33 @@
 
 <table>
   <tr>
-     <td colspan="3" align="center">
+    <th colspan="2">
       <h1>GITHUB STATS</h1>
+    </th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kilonzojames&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;" alt="GitHub Activity Graph">
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kilonzojames&show_icons=true&locale=en&layout=compact&theme=dark" alt="kilonzojames" />
+    <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kilonzojames&show_icons=true&locale=en&theme=dark&layout=compact" alt="kilonzojames"/>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=kilonzojames&show_icons=true&locale=en&theme=dark" alt="kilonzojames" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://github-contributor-stats.vercel.app/api?username=kilonzojames&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kilonzojames&theme=dark&hide_border=false">
+    <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kilonzojames&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
     </td>
   </tr>
   <tr>
-    <td colspan="3" align="center">
-      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=kilonzojames&bg_color=0a0a0a&color=05e173&line=1ddd70&point=0de761&area=true&hide_border=true" alt="GitHub Activity Graph">
-      </a>
+    <td width="50%" align="center">
+        <img src="https://github-contributor-stats.vercel.app/api?username=kilonzojames&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+    </td>
+    <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=kilonzojames&show_icons=true&locale=en&theme=dark" alt="kilonzojames" />
     </td>
   </tr>
 </table>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kilonzojames/kilonzojames/output/github-contribution-grid-snake-dark.svg">
@@ -192,8 +85,26 @@
 </picture>
 
 ### Github Contribution Grid Snake
+
 ![github-contribution-grid-snake](https://github.com/kilonzojames/kilonzojames/blob/output/github-contribution-grid-snake.svg)
 
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <p align="center">
+        <b>Visitor count</b>
+        <br> 
+        <br>
+        <img src="https://profile-counter.glitch.me/kilonzojames/count.svg" />
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <img alt="Coding" height="450" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
+    </td>
+  </tr>
+</table>
+
+
 <a href="#">
-  <img src="https://capsule-render.vercel.app/api?text=the_end&animation=fadeIn&type=waving&color=gradient&height=100&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?text=the_end&animation=fadeIn&type=waving&color=gradient&height=120&section=footer"/>
 </a>
