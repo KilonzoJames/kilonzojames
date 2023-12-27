@@ -94,7 +94,7 @@ Let's build incredible digital experiences together! 🌐️
   </tr>
   <tr>
     <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kilonzojames&show_icons=true&locale=en&theme=dark&layout=compact" alt="kilonzojames"/>
+        <a href="https://github.com/kilonzojames"><img alt="kilonzojames's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kilonzojames&langs_count=6&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFFFFF&icon_color=F8D866"/></a>
     </td>
     <td width="50%" align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kilonzojames&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
@@ -109,6 +109,10 @@ Let's build incredible digital experiences together! 🌐️
     </td>
   </tr>
 </table>
+
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kilonzojames/kilonzojames/output/github-contribution-grid-snake-dark.svg">
