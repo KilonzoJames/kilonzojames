@@ -1,4 +1,4 @@
-                                                Triple Threat: JavaScript | Python | C
+<p align="center"> Building the Future, Byte by Byte </p>
 
 <p align="center">
   <a href="#">
@@ -19,34 +19,67 @@ Let's build incredible digital experiences together! 🌐️
 </p> -->
 
 <div align="center">
-    <h1 colspan="10" style="color: #FF4500; font-family: 'Rubik Doodle Shadow', sans-serif; text-transform: uppercase; font-size: 24px;">🛠️ DISCOVER MY TECH STACK & LINGUISTIC ARSENAL 🚀</h1>
+  <h1 colspan="10">
+    <span style="color: #FF4500; font-family: 'Rubik Doodle Shadow', sans-serif; text-transform: uppercase; font-size: 24px;">️ DISCOVER MY TECH STACK & LINGUISTIC ARSENAL </span>
+  </h1>
 </div>
-
+- Programming Languages
 
 <p align="center">
-    <a href="https://skillicons.dev/icons?i=py,js,c,django,flask,ts,react,redux,css,tailwind,bootstrap,html,git,github,sqlite,postgres,visualstudio,linux,postman&perline=7">
-    <img src="https://skillicons.dev/icons?i=py,js,c,django,flask,ts,react,redux,css,tailwind,bootstrap,html,git,github,sqlite,postgres,visualstudio,linux,postman&perline=10" alt="My Skills">
+  <a href="https://skillicons.dev/icons?i=py,js,c">
+    <img src="https://skillicons.dev/icons?i=py,js,c&perline=3" alt="Programming Languages">
   </a>
 </p>
 
-<h1 align="center">
-    🌐 Socials:
-</h1>
+- Frameworks
 
-<div class="social-icons" align="center">
-    <a href="https://www.github.com/kilonzojames" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
-        <img src="https://cdn3.iconfinder.com/data/icons/social-network-round-gloss-shine/512/GitHub_Social-Network-Communicate-Page-Curl-Effect-Circle-Glossy-Shadow-Shine.png" alt="GitHub Logo" width="72" height="72" style="max-width: 100%; max-height: 100%;">
-    </a>
-    <a href="https://www.x.com/ki_lonzo" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=django,flask,react,redux,tailwind,bootstrap">
+    <img src="https://skillicons.dev/icons?i=django,flask,react,redux,tailwind,bootstrap,ts&perline=15" alt="Frameworks">
+  </a>
+</p>
+
+- Tools/Platforms
+
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=html,css,ts,git,github,vscode,linux,postman">
+    <img src="https://skillicons.dev/icons?i=html,css,ts,git,github,vscode,linux,postman&perline=15" alt="Tools/Platforms">
+  </a>
+</p>
+
+- Databases
+
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=sqlite,postgres">
+    <img src="https://skillicons.dev/icons?i=sqlite,postgres&perline=15" alt="Databases">
+  </a>
+</p>
+
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br>
+
+  <div class="social-icons" style="display: flex; align-items: center;">
+    <h1 align="left">🌐 CONNECT WITH ME:</h1>
+    <div align="center">
+      <a href="https://www.github.com/kilonzojames" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
+        <img src="https://user-images.githubusercontent.com/98466955/195613046-9ecccd6e-b96e-45f9-84b2-c7ea1086479f.gif" width="72" height="72" style="max-width: 100%; max-height: 100%;" />
+      </a>
+      <a href="https://www.x.com/ki_lonzo" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
         <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png" alt="Twitter Logo" width="72" height="72" style="max-width: 100%; max-height: 100%;">
-    </a>
-    <a href="https://www.linkedin.com/in/james-kilonzo-392249104" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
+      </a>
+      <a href="https://www.linkedin.com/in/james-kilonzo-392249104" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
         <img src="https://cdn2.iconfinder.com/data/icons/social-media-grunge-1/28/social-media-line-drawn-grunge-linkedin-128.png" alt="LinkedIn Logo" width="72" height="72" style="max-width: 100%; max-height: 100%;">
-    </a>
-    <a href="mailto:jay.kilonzo@gmail.com?subject=Hello%20There&body=I%20hope%20you%20are%20doing%20well!" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
-        <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email Icon" width="72" height="72" style="max-width: 100%; max-height: 100%;">
-    </a>
-</div>
+      </a>
+      <a href="mailto:jay.kilonzo@gmail.com?subject=Hello%20There&body=I%20hope%20you%20are%20doing%20well!" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
+        <img src="https://user-images.githubusercontent.com/98466955/195565804-e5ee1df3-f584-4b6a-af87-581db17d3d77.gif" 
+          alt="Email Icon"  width="72" height="72" style="max-width: 100%; max-height: 100%;"/>
+      </a> 
+    </div>
+  </div>
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br>
 
 <table>
   <tr>
@@ -77,7 +110,6 @@ Let's build incredible digital experiences together! 🌐️
   </tr>
 </table>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kilonzojames/kilonzojames/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kilonzojames/kilonzojames/output/github-contribution-grid-snake.svg">
@@ -87,6 +119,9 @@ Let's build incredible digital experiences together! 🌐️
 ### Github Contribution Grid Snake
 
 ![github-contribution-grid-snake](https://github.com/kilonzojames/kilonzojames/blob/output/github-contribution-grid-snake.svg)
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br>
 
 <table align="center">
   <tr>
@@ -99,11 +134,10 @@ Let's build incredible digital experiences together! 🌐️
       </p>
     </td>
     <td width="50%" align="center">
-      <img alt="Coding" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
+      <img alt="Coding" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*C-cPP9D2MIyeexAT.gif" />
     </td>
   </tr>
 </table>
-
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?text=the_end&animation=fadeIn&type=waving&color=gradient&height=120&section=footer"/>
