@@ -1,10 +1,10 @@
-<p align="center"> Building the Future, Byte by Byte </p>
-
 <p align="center">
   <a href="#">
     <img src="https://capsule-render.vercel.app/api?%20..%20&animation=fadeIn&type=waving&color=gradient&height=120" alt="Hello" width="100%">
   </a>
 </p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=30&duration=1&pause=1000&color=0ACF11&center=true&vCenter=true&random=false&width=900&height=150&lines=Building+the+Future%2C+Byte+by+Byte" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Shojumaru&size=60&duration=1000&pause=500&color=05A47D&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=150&lines=KilonzoJames+here!+👨‍💻" alt="Typing SVG" /></a>
 
@@ -18,12 +18,17 @@
 Let's build incredible digital experiences together! 🌐️
 </p> -->
 
-<div align="center">
-  <h1 colspan="10">
-    <span style="color: #FF4500; font-family: 'Rubik Doodle Shadow', sans-serif; text-transform: uppercase; font-size: 24px;">️ DISCOVER MY TECH STACK & LINGUISTIC ARSENAL </span>
+<div align="center" style="color: #FF4500; font-family: 'Rubik Doodle Shadow', sans-serif; text-transform: uppercase; font-size: 24px;">
+  <h1>
+    DISCOVER MY TECH STACK & LINGUISTIC ARSENAL 
   </h1>
 </div>
-- Programming Languages
+
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br>
+
+## Programming Languages
 
 <p align="center">
   <a href="https://skillicons.dev/icons?i=py,js,c">
@@ -31,7 +36,7 @@ Let's build incredible digital experiences together! 🌐️
   </a>
 </p>
 
-- Frameworks
+## Frameworks
 
 <p align="center">
   <a href="https://skillicons.dev/icons?i=django,flask,react,redux,tailwind,bootstrap">
@@ -39,7 +44,7 @@ Let's build incredible digital experiences together! 🌐️
   </a>
 </p>
 
-- Tools/Platforms
+## Tools/Platforms
 
 <p align="center">
   <a href="https://skillicons.dev/icons?i=html,css,ts,git,github,vscode,linux,postman">
@@ -47,7 +52,7 @@ Let's build incredible digital experiences together! 🌐️
   </a>
 </p>
 
-- Databases
+## Databases
 
 <p align="center">
   <a href="https://skillicons.dev/icons?i=sqlite,postgres">
@@ -89,23 +94,36 @@ Let's build incredible digital experiences together! 🌐️
   </tr>
   <tr>
     <td colspan="2" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kilonzojames&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;" alt="GitHub Activity Graph">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kilonzojames&show_icons=true&theme=dark" 
+        alt="GitHub Activity Graph"
+        />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-        <a href="https://github.com/kilonzojames"><img alt="kilonzojames's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kilonzojames&langs_count=6&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFFFFF&icon_color=F8D866"/></a>
+        <img 
+        alt="kilonzojames's Top Languages" 
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kilonzojames&langs_count=6&layout=compact&theme=react&bg_color=0D1117&title_color=FFFFFF&icon_color=F8D866t&border_color=000000FF" 
+        />
     </td>
     <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kilonzojames&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+        <img 
+        src="https://github-readme-stats.vercel.app/api?username=kilonzojames&show_icons=true&locale=en&theme=dark&border_color=000000FF" 
+        alt="kilonzojames"
+        /> 
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=kilonzojames&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+        <img 
+        src="https://github-contributor-stats.vercel.app/api?username=kilonzojames&limit=5&theme=radical&title_color=FFFFFFFF&border_color=000000FF&combine_all_yearly_contributions=true" 
+        alt="GitHub Contributor Stats"
+        />       
     </td>
     <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=kilonzojames&show_icons=true&locale=en&theme=dark" alt="kilonzojames" />
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kilonzojames&show_icons=true&theme=dark" 
+        alt="Summary"
+        />
     </td>
   </tr>
 </table>
