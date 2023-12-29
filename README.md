@@ -68,13 +68,13 @@ Let's build incredible digital experiences together! 🌐️
     <h1 align="left">🌐 CONNECT WITH ME:</h1>
     <div align="center">
       <a href="https://www.github.com/kilonzojames" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
-        <img src="https://user-images.githubusercontent.com/98466955/195613046-9ecccd6e-b96e-45f9-84b2-c7ea1086479f.gif" width="72" height="72" style="max-width: 100%; max-height: 100%;" />
+        <img src="https://cdn3.iconfinder.com/data/icons/social-network-round-gloss-shine/512/GitHub_Social-Network-Communicate-Page-Curl-Effect-Circle-Glossy-Shadow-Shine.png" alt="GitHub Logo" width="72" height="72" style="max-width: 100%; max-height: 100%;">
       </a>
       <a href="https://www.x.com/ki_lonzo" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
         <img src="https://user-images.githubusercontent.com/98466955/195566671-f3328fbe-1b77-4500-b6fb-b9d92fa9c011.gif" alt="Twitter Logo" width="72" height="72" style="max-width: 100%; max-height: 100%;">
       </a>
       <a href="https://www.linkedin.com/in/james-kilonzo-392249104" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
-        <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="LinkedIn Logo" width="60" height="60" style="max-width: 100%; max-height: 100%; border-radius: 50%">
+        <img src="https://user-images.githubusercontent.com/98466955/195613046-9ecccd6e-b96e-45f9-84b2-c7ea1086479f.gif" alt="LinkedIn Logo" width="72" height="72" style="max-width: 100%; max-height: 100%;" />
       </a>
       <a href="mailto:jay.kilonzo@gmail.com?subject=Hello%20There&body=I%20hope%20you%20are%20doing%20well!" target="_blank" rel="noreferrer" style="margin: 20px; width: 72px; height: 72px; display: inline-block; text-align: center; border-radius: 50%; background-color: #f0f0f0;">
         <img src="https://user-images.githubusercontent.com/98466955/195565804-e5ee1df3-f584-4b6a-af87-581db17d3d77.gif" 
