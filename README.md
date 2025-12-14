@@ -154,21 +154,16 @@ Let's build incredible digital experiences together! 🌐️
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <p align="center">
-        <b>Visitor count</b>
-        <br> 
-        <br>
-        <img src="https://profile-counter.glitch.me/kilonzojames/count.svg" />
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <img alt="Coding" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*C-cPP9D2MIyeexAT.gif" />
-    </td>
-  </tr>
-</table>
+### 📊 Contribution Graph
+<p align="center">
+  <a href="https://github.com/kilonzojames">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kilonzojames&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <img alt="Coding" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*C-cPP9D2MIyeexAT.gif" width="400" />
+</p>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?text=the_end&animation=fadeIn&type=waving&color=gradient&height=120&section=footer"/>
