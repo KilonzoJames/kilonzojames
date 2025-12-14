@@ -102,24 +102,18 @@ Let's build incredible digital experiences together! 🌐️
     </th>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kilonzojames&show_icons=true&theme=dark" 
-        alt="GitHub Activity Graph"
-        />
-    </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
         <img 
-        alt="kilonzojames's Top Languages" 
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kilonzojames&langs_count=6&layout=compact&theme=react&bg_color=0D1117&title_color=FFFFFF&icon_color=F8D866t&border_color=000000FF" 
-        />
-    </td>
-    <td width="50%" align="center">
-        <img 
-        src="https://github-readme-stats.vercel.app/api?username=kilonzojames&show_icons=true&locale=en&theme=dark&border_color=000000FF" 
         alt="kilonzojames"
-        /> 
+        src="https://github-readme-stats.vercel.app/api?username=kilonzojames&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=39FF14&text_color=FFF"
+        />
+    </td>
+    <td width="50%" align="center">
+        <img 
+        width=325 align="center" 
+        alt="kilonzojames's Top Languages" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilonzojames&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+        />
     </td>
   </tr>
   <tr>
@@ -134,19 +128,28 @@ Let's build incredible digital experiences together! 🌐️
         alt="Summary"
         />
     </td>
-  </tr>
+<tr>
+  <td width="50%" align="center">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kilonzojames&show_icons=true&theme=dark"
+      alt="GitHub Profile Summary"
+    />
+  </td>
+
+  <td width="50%" align="center">
+    <a href="https://github.com/kilonzojames">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=kilonzojames&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true"
+        alt="GitHub Activity Graph"
+      />
+    </a>
+  </td>
+</tr>
 </table>
 
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
-
-### 📊 Contribution Graph
-<p align="center">
-  <a href="https://github.com/kilonzojames">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kilonzojames&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true" />
-  </a>
-</p>
 
 <p align="center">
   <img alt="Coding" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*C-cPP9D2MIyeexAT.gif" width="400" />
