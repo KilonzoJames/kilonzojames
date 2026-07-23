@@ -1,0 +1,40 @@
+# Generates GitHub profile summary SVGs and commits them to this repo.
+# README references these local files so the profile stays online when the
+# public Vercel API is rate-limited.
+#
+# Setup (once):
+#   1. Create a classic PAT with `repo` + `read:user` scopes
+#      https://github.com/settings/tokens
+#   2. Add it as repo secret SUMMARY_GITHUB_TOKEN
+#   3. Run this workflow via "Run workflow" (Actions tab)
+#
+# Outputs: profile-summary-card-output/nord_dark/*.svg
+
+name: Profile Summary Cards
+
+on:
+  schedule:
+    # Refresh once a day at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 3
+          THEME: nord_dark
+          AUTO_PUSH: true
