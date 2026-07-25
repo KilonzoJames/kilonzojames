@@ -12,9 +12,11 @@
   <strong>CLOUD</strong>
 </p>
 
-<p><samp>Dependable software, designed for adversarial environments.</samp></p>
+<p><samp>Software that earns trust.</samp></p>
 
 <p>
+  <a href="https://kilonzohq.vercel.app/">Portfolio</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://linkedin.com/in/kilonzo-james">LinkedIn</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://sevenly.vercel.app">Technical writing</a>
@@ -62,11 +64,11 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,c,bash,html,css,django,flask,fastapi,react,tailwind,bootstrap&perline=10" alt="Application development technologies" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,bash,html,css,django,flask,fastapi,react,tailwind,bootstrap&perline=13" alt="Application development technologies" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,git,githubactions,docker,kubernetes,aws,gcp,pytorch,solidity,linux&perline=10" alt="Infrastructure and specialist technologies" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,git,githubactions,docker,kubernetes,aws,gcp,pytorch,solidity,linux&perline=13" alt="Infrastructure and specialist technologies" />
 </p>
 
 <br>
@@ -117,8 +119,9 @@
 
 <p><samp>OPEN TO THOUGHTFUL COLLABORATION IN SOFTWARE, SECURITY, AND OPEN SOURCE.</samp></p>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E3440?style=flat-square&logo=vercel&logoColor=88C0D0)](https://kilonzohq.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2E3440?style=flat-square&logo=linkedin&logoColor=88C0D0)](https://linkedin.com/in/kilonzo-james)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-2E3440?style=flat-square&logo=tryhackme&logoColor=ECEFF4)](https://tryhackme.com/p/Sevenly)
 [![Technical writing](https://img.shields.io/badge/Technical_Writing-2E3440?style=flat-square&logo=vercel&logoColor=ECEFF4)](https://sevenly.vercel.app)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-2E3440?style=flat-square&logo=tryhackme&logoColor=ECEFF4)](https://tryhackme.com/p/Sevenly)
 
 </div>
