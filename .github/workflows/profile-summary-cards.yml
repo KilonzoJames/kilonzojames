@@ -57,22 +57,35 @@ jobs:
           AUTO_PUSH: false
 
       - name: Fetch streak and activity graph SVGs
-        env:
-          STREAK_URL: https://github-readme-streak-stats.herokuapp.com/?user=kilonzojames&theme=nord_dark&hide_border=true&background=2E3440&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0&sideLabels=ECEFF4&currStreakNum=ECEFF4&sideNums=ECEFF4&dates=D8DEE9
-          ACTIVITY_URL: https://github-readme-activity-graph.vercel.app/graph?username=kilonzojames&bg_color=2E3440&color=D8DEE9&line=88C0D0&point=ECEFF4&area=true&area_color=5E81AC&hide_border=true&height=240
         run: |
           set -euo pipefail
           mkdir -p "$CHARTS_DIR"
 
-          curl -fsSL "$STREAK_URL" -o "$CHARTS_DIR/5-streak.svg"
-          curl -fsSL "$ACTIVITY_URL" -o "$CHARTS_DIR/6-activity-graph.svg"
+          # Try each host until one returns an SVG.
+          # streak: demolab is the project homepage; Heroku is unpaid and sometimes returns 402.
+          # activity: github-readme-activity-graph.vercel.app is paused (402 DEPLOYMENT_DISABLED).
+          fetch_svg() {
+            local dest="$1"
+            shift
+            local url
+            for url in "$@"; do
+              echo "Fetching $(basename "$dest")"
+              if curl -fsSL --retry 2 --retry-delay 2 "$url" -o "$dest" && grep -q '<svg' "$dest"; then
+                return 0
+              fi
+              echo "::warning::No SVG from $url"
+              rm -f "$dest"
+            done
+            echo "::error::Expected SVG content in $dest"
+            return 1
+          }
 
-          for file in "$CHARTS_DIR/5-streak.svg" "$CHARTS_DIR/6-activity-graph.svg"; do
-            if ! grep -q '<svg' "$file"; then
-              echo "::error::Expected SVG content in $file"
-              exit 1
-            fi
-          done
+          fetch_svg "$CHARTS_DIR/5-streak.svg" \
+            "https://streak-stats.demolab.com/?user=kilonzojames&theme=nord_dark&hide_border=true&background=2E3440&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0&sideLabels=ECEFF4&currStreakNum=ECEFF4&sideNums=ECEFF4&dates=D8DEE9" \
+            "https://github-readme-streak-stats.herokuapp.com/?user=kilonzojames&theme=nord_dark&hide_border=true&background=2E3440&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0&sideLabels=ECEFF4&currStreakNum=ECEFF4&sideNums=ECEFF4&dates=D8DEE9"
+
+          fetch_svg "$CHARTS_DIR/6-activity-graph.svg" \
+            "https://github-readme-activity-graphkayan.vercel.app/graph?username=kilonzojames&bg_color=2E3440&color=D8DEE9&line=88C0D0&point=ECEFF4&area=true&area_color=5E81AC&hide_border=true&height=240"
 
       - name: Commit and push chart SVGs
         run: |
